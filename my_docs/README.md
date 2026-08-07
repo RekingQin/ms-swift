@@ -22,6 +22,7 @@
 | 10 | 算法配置与跨 Worker 数据流转（RLHF 配置 / rollout / 分布式流转） | [10-算法配置与跨Worker数据流转.md](10-算法配置与跨Worker数据流转.md) |
 | 11 | 预训练、SFT 和 RL 实现详解（三大训练任务深入） | [11-预训练、SFT和RL实现详解.md](11-预训练、SFT和RL实现详解.md) |
 | 12 | 流式数据处理（streaming / packing / DataLoader / JSONL） | [12-流式数据处理.md](12-流式数据处理.md) |
+| 13 | 设计与实现架构（总体架构 + PT/SFT/RL 三模式 ASCII 架构图） | [13-设计与实现架构.md](13-设计与实现架构.md) |
 
 ## 源码导航速查
 
